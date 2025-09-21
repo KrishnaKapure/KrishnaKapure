@@ -1,5 +1,5 @@
 ## Hello I’m Krishna Kapure
-AI/ML Engineer | 🤖 Deep Learning & Neural Networks | 📊 Data Science Enthusiast | 🚀 Building intelligent solutions with Python, TensorFlow & PyTorch
+
 
   💡 Passionate AI/ML Engineer with experience in building end-to-end machine learning solutions, from data preprocessing to deployment.
   🚀 Skilled in Python, TensorFlow, PyTorch, Scikit-Learn, NLP, Computer Vision, Deep Learning, and MLOps.
