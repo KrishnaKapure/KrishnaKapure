@@ -34,11 +34,10 @@
   
   📫 Connect with Me
   
-  💼 LinkedIn
+  💼 LinkedIn: www.linkedin.com/in/krishna-kapure-44b6a0294
   
-  ✉️ Email: your-email@example.com
+  ✉️ Email: krishnakapurex@gmail.com
   
-  🌐 Portfolio: your-portfolio-link
 
 <!--
 **KrishnaKapure/KrishnaKapure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
