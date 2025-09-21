@@ -21,13 +21,13 @@
   🔹 AI Pipeline Design – RAG-based chatbot with vector DB & FastAPI.
   🔹 Titanic Survival Prediction – Classic ML project with EDA & model comparison.
   
-    📊 GitHub Stats
+  📊 GitHub Stats
     
-    📫 Connect with Me
+  📫 Connect with Me
     
-    💼 LinkedIn: www.linkedin.com/in/krishna-kapure-44b6a0294
+  💼 LinkedIn: www.linkedin.com/in/krishna-kapure-44b6a0294
     
-    ✉️ Email: krishnakapurex@gmail.com
+  ✉️ Email: krishnakapurex@gmail.com
     
 
 <!--
