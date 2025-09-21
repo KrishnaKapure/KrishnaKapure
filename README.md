@@ -9,11 +9,17 @@
   🛠️ Tech Stack
   
   Languages: C, C++, Java, Python
+  
   ML/DL: TensorFlow, PyTorch, Scikit-Learn, Keras
+  
   Data: Pandas, NumPy, Matplotlib, Seaborn
+  
   Databases: MySQL, MongoDB
+  
   Tools: Git, Docker, FastAPI, Django
+  
   Cloud: AWS, GCP
+  
   
   📂 Featured Projects
   
