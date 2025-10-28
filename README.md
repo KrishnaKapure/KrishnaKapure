@@ -5,6 +5,7 @@
 
 💻 Enthusiastic about Data Structures & Algorithms (DSA) and Python Automation, with a strong focus on writing efficient, scalable, and clean code. I love working with data, algorithms, and real-world problem solving to create intelligent systems.
 
+
 🛠️ Tech Stack
 
 Languages: C, C++, Java, Python
@@ -20,6 +21,7 @@ Tools: Git, Docker, FastAPI, Django
 Cloud: AWS, GCP
 
 📂 Featured Projects
+
 🔹 Naval Mine Detector – Deep Learning-based sonar image classification to detect naval mines.
 
 🔹 Diabetes Prediction – ML model using Logistic Regression, Random Forest & SVM with Tkinter UI.
@@ -27,6 +29,7 @@ Cloud: AWS, GCP
 🔹 AI Pipeline Design – RAG-based chatbot with Vector DB & FastAPI integration.
 
 🔹 Titanic Survival Prediction – Classic ML project featuring EDA and model comparison.
+
   
 🧠 I’m currently working on: Deep Learning and AI projects — focusing on sonar image classification, RAG pipelines, and AI-powered automation.
 
@@ -39,6 +42,7 @@ Cloud: AWS, GCP
 💬 Ask me about: Machine Learning, Deep Learning, NLP, Computer Vision, Python Automation, and DSA problem-solving.
 
 ⚡ Fun fact: I love turning complex algorithms into simple, elegant code — and I can debug faster with music on 🎧
+
 
   📫 Connect with Me
     
