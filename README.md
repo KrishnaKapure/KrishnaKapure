@@ -8,16 +8,24 @@
 🛠️ Tech Stack
 
 Languages: C, C++, Java, Python
+
 ML/DL: TensorFlow, PyTorch, Scikit-Learn, Keras
+
 Data: Pandas, NumPy, Matplotlib, Seaborn
+
 Databases: MySQL, MongoDB
+
 Tools: Git, Docker, FastAPI, Django
+
 Cloud: AWS, GCP
 
 📂 Featured Projects
 🔹 Naval Mine Detector – Deep Learning-based sonar image classification to detect naval mines.
+
 🔹 Diabetes Prediction – ML model using Logistic Regression, Random Forest & SVM with Tkinter UI.
+
 🔹 AI Pipeline Design – RAG-based chatbot with Vector DB & FastAPI integration.
+
 🔹 Titanic Survival Prediction – Classic ML project featuring EDA and model comparison.
   
 🧠 I’m currently working on: Deep Learning and AI projects — focusing on sonar image classification, RAG pipelines, and AI-powered automation.
@@ -35,4 +43,5 @@ Cloud: AWS, GCP
   📫 Connect with Me
     
   💼 LinkedIn: www.linkedin.com/in/krishna-kapure-44b6a0294 
+  
   ✉️ Email: krishnakapurex@gmail.com
