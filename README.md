@@ -21,15 +21,17 @@ Cloud: AWS, GCP
 🔹 Titanic Survival Prediction – Classic ML project featuring EDA and model comparison.
   
 🧠 I’m currently working on: Deep Learning and AI projects — focusing on sonar image classification, RAG pipelines, and AI-powered automation.
+
 🌱 I’m currently learning: Large Language Models (LLMs), AI Agents, MLOps, and advanced Data Structures & Algorithms.
+
 👯 I’m looking to collaborate on: Open-source AI/ML projects, automation tools, and real-world ML applications.
+
 🤔 I’m looking for help with: Optimizing deep learning models and deploying scalable AI systems on the cloud.
+
 💬 Ask me about: Machine Learning, Deep Learning, NLP, Computer Vision, Python Automation, and DSA problem-solving.
-📫 How to reach me: krishnakapure@gmail.com
- (or your preferred contact if different)
+
 ⚡ Fun fact: I love turning complex algorithms into simple, elegant code — and I can debug faster with music on 🎧
 
-  
   📫 Connect with Me
     
   💼 LinkedIn: www.linkedin.com/in/krishna-kapure-44b6a0294 
