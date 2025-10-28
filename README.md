@@ -6,21 +6,21 @@
 💻 Enthusiastic about Data Structures & Algorithms (DSA) and Python Automation, with a strong focus on writing efficient, scalable, and clean code. I love working with data, algorithms, and real-world problem solving to create intelligent systems.
 
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 
-Languages:  C, C++, Java, Python
+**Languages**:  C, C++, Java, Python
 
-ML/DL:  TensorFlow, PyTorch, Scikit-Learn, Keras
+**ML/DL:**  TensorFlow, PyTorch, Scikit-Learn, Keras
 
-Data:  Pandas, NumPy, Matplotlib, Seaborn
+**Data:**  Pandas, NumPy, Matplotlib, Seaborn
 
-Databases:  MySQL, MongoDB
+**Databases:**  MySQL, MongoDB
 
-Tools:  Git, Docker, FastAPI, Django
+**Tools:**  Git, Docker, FastAPI, Django
 
-Cloud:  AWS, GCP
+**Cloud:**  AWS, GCP
 
-📂 Featured Projects
+**📂 Featured Projects**
 
 🔹 Naval Mine Detector – Deep Learning-based sonar image classification to detect naval mines.
 
@@ -44,7 +44,7 @@ Cloud:  AWS, GCP
 ⚡ Fun fact: I love turning complex algorithms into simple, elegant code — and I can debug faster with music on 🎧
 
 
-  📫 Connect with Me
+  **📫 Connect with Me**
     
   💼 LinkedIn: www.linkedin.com/in/krishna-kapure-44b6a0294 
   
